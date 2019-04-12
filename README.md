@@ -5,6 +5,6 @@ When a vacation is created, all the team envolved will be notificated. The vacat
 Users types:
 * Admin: is able to create/update/delete all items of the system, like configuration attributes and so on. 
 
-Employee: Is able to edit and confirure your own profile and send vacation requests for the teamleader approvement.
+* Employee: Is able to edit and confirure your own profile and send vacation requests for the teamleader approvement.
 
-Clinet: is able only to see all the resources available and vacations registered for each of them.
+* Clinet: is able only to see all the resources available and vacations registered for each of them.
